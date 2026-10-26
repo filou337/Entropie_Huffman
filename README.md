@@ -1,5 +1,7 @@
 # Entropie & Codage de Huffman
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/filou337/Entropie_Huffman/blob/main/Entropie_Huffman_ROUMBO_PHILIPPE_M2Bigdata.ipynb)
+
 Projet réalisé dans le cadre du **Master 2 Big Data** (Université Sorbonne Paris Nord – Paris 13) par **Philippe Roumbo**.
 
 L'objectif est d'appliquer des notions de **théorie de l'information** à un texte réel : la présentation du parcours *Big Data, Analyse et Business Intelligence* publiée sur le [site de l'UFR](https://ecogestion.univ-paris13.fr/parcours-big-data-analyse-et-business-intelligence/).
@@ -72,7 +74,7 @@ pip install -r requirements.txt
 jupyter notebook Entropie_Huffman_ROUMBO_PHILIPPE_M2Bigdata.ipynb
 ```
 
-Le notebook peut aussi être ouvert directement dans Google Colab.
+Le notebook peut aussi être ouvert directement dans Google Colab via le badge en haut de cette page.
 
 ## Technologies
 
